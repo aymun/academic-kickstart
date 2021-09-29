@@ -22,28 +22,52 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Instructor in Computer Science
+    company: Asian University for Women
+    company_url: 'https://asian-university.org/'
+  #  company_logo: org-gc
+    location: Chittagong, Bangladesh
+    date_start: '2020-01-12'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teach Courses
+        * Assess Students' Works
+        * Curriculum Development
+        * Evaluate Placement Tests
+
+  - title: Teaching Assistant in Harvard's CS50 Course
+    company: Asian University for Women
+    company_url: 'https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=f96f8f41238af316687f707bf50f76db&position=1'
+  #  company_logo: org-gc
+    location: Chittagong, Bangladesh
+    date_start: '2020-01-12'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Conduct Lab Class
+        * Problem Sets Discussion
+        * Assist Students
+
+  - title: Mentor at AUW AI Society
+    company: Asian University for Women
+    company_url: 'https://asian-university.org/'
+  #  company_logo: org-gc
+    location: Chittagong, Bangladesh
+    date_start: '2021-09-07'
+    date_end: ''
+    description: Advising Undergraduate Students Research
+        
+  - title: Graduate Research Student
+    company: KDE Lab, Toyohashi University of Technology
+    company_url: 'https://www.kde.cs.tut.ac.jp/en/'
+  #  company_logo: org-x
+    location: Toyohashi, Japan
+    date_start: '2017-10-01'
+    date_end: '2019-09-30'
+    description: Performed Research for M.Eng.,<br> Supervised by Professor Masaki Aono (PhD)
 
 design:
   columns: '2'
