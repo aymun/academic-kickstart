@@ -38,7 +38,7 @@ publication: Journal of Information Processing, Vol.29, pp.16-29
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
