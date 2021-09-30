@@ -1,5 +1,5 @@
 ---
-title: "Tweet Stance Detection Using an Attention based Neural Ensemble Model"
+title: "Stance Detection on Microblog Focusing on Syntactic Tree Representation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: 2019-06-01
+date: 2018-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: NAACL-HLT 2019, ACL, 2-5 June 2019, Minneapolis, Minnesota, USA
+publication: 3rd International Conference on Data Mining and Big Data (DMBD 2018), Springer, 17-22 June 2018, Shanghai, China
 # publication_short: In *ICW*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/N19-1185.pdf'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-319-93803-5_45'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
