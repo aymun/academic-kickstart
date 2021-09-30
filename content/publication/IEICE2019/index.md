@@ -38,7 +38,7 @@ publication: IEICE Transactions on Information and Systems (IEICE TOIS), Vol.E10
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
