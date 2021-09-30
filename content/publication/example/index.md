@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "January 2021"
+date: 2021-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -74,5 +74,5 @@ url_pdf: 'https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_16/_pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
