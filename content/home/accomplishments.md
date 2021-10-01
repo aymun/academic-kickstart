@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/B5NSGJ25V83T
   date_end: ""
   date_start: "2021-08-09"
-  description: ""
+  description: "Learned machine learning skills and the state-of-the-art deep learning techniques needed to build NLP systems."
   #description: |2-  
     #* Natural Language Processing with Classification and Vector Spaces
     #* Natural Language Processing with Probabilistic Models
