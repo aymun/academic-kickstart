@@ -27,15 +27,21 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer and Information Technology (ICCIT 2016), IEEE, 18-20 December 2016, Dhaka, Bangladesh
-# publication_short: In *ICW*
+publication: International Conference on Computer and Information Technology, IEEE, 18-20 December 2016, Dhaka, Bangladesh
+publication_short: ICCIT 2016
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
-tags: []
+tags:
+- Microblog
+- Sentiment analysis
+- Sentiment lexicon
+- Feature extraction
+- Rule-based classifier
+- Machine learning
 
 # Display this page in the Featured widget?
 featured: true
