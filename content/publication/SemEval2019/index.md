@@ -1,5 +1,5 @@
 ---
-title: "Combining a Rule-based Classifier with Ensemble of Feature Sets and Machine Learning Techniques for Sentiment Analysis on Microblog"
+title: "KDEHatEval at SemEval-2019 Task 5: A Neural Network Model for Detecting Hate Speech in Twitter"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: 2016-12-01
+date: 2019-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,11 +24,11 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer and Information Technology, IEEE, 18-20 December 2016, Dhaka, Bangladesh
-publication_short: ICCIT 2016
+publication: Proceedings of the 13th International Workshops on Semantic Evaluation, ACL, 6-7 June 2019, Minneapolis, Minnesota, USA.
+publication_short: SemEval 2019
 
 # abstract: 
 
@@ -36,12 +36,13 @@ publication_short: ICCIT 2016
 # summary: 
 
 tags:
-- Microblog
-- Sentiment analysis
-- Sentiment lexicon
-- Feature extraction
-- Rule-based classifier
-- Machine learning
+- Hate Speech
+- Multi-kernel convolution
+- Nested LSTMs
+- Multilayer perceptron
+- DeepMoji
+- InferSent
+- BERT
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/7860214'
+url_pdf: 'https://aclanthology.org/S19-2064.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
