@@ -28,14 +28,17 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: NAACL-HLT 2019, ACL, 2-5 June 2019, Minneapolis, Minnesota, USA
-publication_short: NAACL-HLT 
+# publication_short: NAACL-HLT 
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
-tags: []
+tags:
+- Stance detection
+- Attention mechanism
+- Neural ensemble model
 
 # Display this page in the Featured widget?
 featured: true
