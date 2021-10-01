@@ -31,11 +31,16 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Teach Courses
         * Assess Students' Works
         * Curriculum Development
         * Evaluate Placement Tests
+        
+        Courses Teach:
+        * Introduction to Computing and Programming
+        * Structured Programming Language C
+        * High-level Programming Language Python
+        * CS50’s Introduction to Computer Science by Harvard University
 
   - title: Teaching Assistant in Harvard's CS50 Course
     company: Asian University for Women
