@@ -30,10 +30,10 @@ publication_types: ["2"]
 publication: Journal of Information Processing, Vol.29, pp.16-29
 # publication_short: In *ICW*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: During emergencies and disaster situations, microblogging sites, especially twitter, can be used as a source of providing situational information needs. Monitoring and identifying informative tweets from tweet streams provide enormous opportunities for public safety personnel in coordinating aid operations as well as conducting the post-incident analysis. However, the brevity of tweets and noisy tweet contents makes it challenging to extract the situational information effectively and identify the tweets based on different information types. In this paper, we propose a neural network model with a naive rule-based classifier for actionable informative tweets classification. In our proposed neural architecture, we exploit the transfer learning features from a pre-trained sentence embeddings model along with a rich set of hand-crafted features to train a multilayer perceptron (MLP) network. In addition, we employ the state-of-the-art LSTM variants, nested LSTMs (NLSTMs) to capture the long-term dependency effectively. On top of nested LSTMs, we perform the convolution using multiple kernels (CMK) to obtain the higher-level representation of tweets. Experiments on the 2018 TREC incident streams (TREC-IS) dataset show that our proposed neural model learns the contextual information effectively and achieves the overall best result compared to the state-of-the-art methods.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+keywords: microblog incident streams, actionable information, crisis informatics, disasters, nested LSTMs, convolution using multiple kernels, transfer learning features, hand-crafted features.
 
 tags: []
 
