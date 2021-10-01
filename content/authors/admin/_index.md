@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: M.Eng. in Computer Science and Engineering
-    institution: Toyohashi University of Technology, Japan
+    institution: Toyohashi University of Technology
     year: 2019
   - course: B.Sc. in Computer Science and Engineering
     institution: International Islamic University Chittagong
