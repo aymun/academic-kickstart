@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Data Mining and Big Data (DMBD 2018), Springer, 17-22 June 2018, Shanghai, China
-# publication_short: DMBD 2018
+publication: International Conference on Data Mining and Big Data, Springer, 17-22 June 2018, Shanghai, China
+publication_short: DMBD 2018
 
 # abstract:
 
