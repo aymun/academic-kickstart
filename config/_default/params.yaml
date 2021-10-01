@@ -8,10 +8,17 @@
 theme: minimal
 day_night: true
 font: ''
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L
 
 # SEO
 
+# Website type
+#   Improve how search engines understand your site.
+#   For personal sites, choose "Person".
+#   For organizations and projects, choose from https://schema.org/Organization#subtypes
+#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type: Person
 local_business_type: ''
 org_name: ''
@@ -29,19 +36,19 @@ address:
   postcode: '4000'
   country: Bangladesh
 #  country_code: US
-# coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/uasdqa'
+contact_links: 
+  # - icon: twitter
+    # icon_pack: fab
+    # name: DM Me
+    # link: 'https://twitter.com/uasdqa'
   - icon: skype
     icon_pack: fab
     name: Skype Me
