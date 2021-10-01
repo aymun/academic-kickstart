@@ -27,15 +27,20 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 3rd International Conference on Data Mining and Big Data (DMBD 2018), Springer, 17-22 June 2018, Shanghai, China
-# publication_short: In *ICW*
+publication: Data Mining and Big Data (DMBD 2018), Springer, 17-22 June 2018, Shanghai, China
+# publication_short: DMBD 2018
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# abstract:
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
-tags: []
+tags:
+- Microblog
+- Stance detection
+- Syntactic tree representation
+- Tree kernel
+- Support vector machine
 
 # Display this page in the Featured widget?
 featured: true
