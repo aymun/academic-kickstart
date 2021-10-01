@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer and Information Technology, IEEE, 18-20 December 2016, Dhaka, Bangladesh
+publication: International Conference on Computer and Information Technology, IEEE, 18-20 December 2016, Dhaka, Bangladesh.
 publication_short: ICCIT 2016
 
 # abstract: 
