@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEICE Transactions on Information and Systems (IEICE TOIS), Vol.E102-D, No.12, pp.2493-2503
-# publication_short: IEICE TOIS
+publication: IEICE Transactions on Information and Systems, Vol.E102-D, No.12, pp.2493-2503.
+publication_short: IEICE TOIS
 
 # abstract: 
 
