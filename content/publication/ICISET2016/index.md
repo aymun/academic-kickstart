@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Innovations in Science, Engineering and Technology, IEEE, 28-29 October 2016, Chittagong, Bangladesh
+publication: International Conference on Innovations in Science, Engineering and Technology, IEEE, 28-29 October 2016, Chittagong, Bangladesh.
 publication_short: ICISET 2016
 
 # abstract: 
