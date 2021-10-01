@@ -66,7 +66,7 @@ experience:
     location: Toyohashi, Japan
     date_start: '2017-10-01'
     date_end: '2019-09-30'
-    description: Performed Research for M.Eng.,<br> Supervised by Professor Masaki Aono (PhD)
+    description: Conducted Research for M.Eng. Degree,<br> Supervised by Professor Masaki Aono (PhD)
 
 design:
   columns: '2'
