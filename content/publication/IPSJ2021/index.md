@@ -36,14 +36,14 @@ publication: Journal of Information Processing (JIP), Vol.29, pp.16-29
 # summary: Journal Article 
 
 tags:
-- microblog incident streams
-- actionable information
-- crisis informatics
-- disasters
-- nested LSTMs
-- convolution using multiple kernels
-- transfer learning features
-- hand-crafted features
+- Microblog incident streams
+- Actionable information
+- Crisis informatics
+- Disasters
+- Nested LSTMs
+- Convolution using multiple kernels
+- Transfer learning features
+- Hand-crafted features
 
 # Display this page in the Featured widget?
 featured: true
