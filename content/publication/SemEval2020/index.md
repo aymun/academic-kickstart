@@ -1,12 +1,12 @@
 ---
-title: "Combining a Rule-based Classifier with Ensemble of Feature Sets and Machine Learning Techniques for Sentiment Analysis on Microblog"
+title: "CSECU_KDE_MA at SemEval-2020 Task 8: A Neural Attention Model for Memotion Analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Umme Aymun Siddiqua
 - Abu Nowshed Chy
+- Umme Aymun Siddiqua
 - Masaki Aono
 
 # Author notes (optional)
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: 2016-12-01
+date: 2020-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,11 +24,11 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer and Information Technology, IEEE, 18-20 December 2016, Dhaka, Bangladesh
-publication_short: ICCIT 2016
+publication: Proceedings of the 14th International Workshops on Semantic Evaluation, 12-13 December 2020, Barcelona, Spain, collocated with COLING 2020.
+publication_short: SemEval 2020
 
 # abstract: 
 
@@ -36,12 +36,12 @@ publication_short: ICCIT 2016
 # summary: 
 
 tags:
-- Microblog
-- Sentiment analysis
-- Sentiment lexicon
-- Feature extraction
-- Rule-based classifier
-- Machine learning
+- Neural Attention Model
+- Memotion Analysis
+- Optical Character Reader (OCR)
+- Meme Embeddings
+- Multi-kernel Convolution
+- Bi-LSTM
 
 # Display this page in the Featured widget?
 featured: true
