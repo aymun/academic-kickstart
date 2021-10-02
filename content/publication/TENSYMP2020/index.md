@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Region 10 Symposium (TENSYMP), 5-7 June 2020, Dhaka, Bangladesh
-# publication_short: In *ICW*
+publication: Proceedings of the 2020 IEEE Region 10 Symposium, 5-7 June 2020, Dhaka, Bangladesh.
+publication_short:  TENSYMP 2020 (Best Paper Award as a co-author)
 
 # abstract:
 
