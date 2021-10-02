@@ -25,7 +25,7 @@ experience:
   - title: Instructor in Computer Science
     company: Asian University for Women
     company_url: 'https://asian-university.org/'
-    company_logo: auw-y
+  # company_logo: org-x
     location: Chittagong, Bangladesh
     date_start: '2020-01-12'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Teaching Assistant in Harvard's CS50 Course
     company: Asian University for Women
     company_url: 'https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=f96f8f41238af316687f707bf50f76db&position=1'
-  #  company_logo: org-gc
+  # company_logo: org-gc
     location: Chittagong, Bangladesh
     date_start: '2020-01-12'
     date_end: ''
@@ -52,7 +52,7 @@ experience:
   - title: Mentor at AUW AI Society
     company: Asian University for Women
     company_url: 'https://asian-university.org/'
-  #  company_logo: org-gc
+  # company_logo: org-gc
     location: Chittagong, Bangladesh
     date_start: '2021-09-07'
     date_end: ''
@@ -61,7 +61,7 @@ experience:
   - title: Graduate Research Student
     company: KDE Lab, Toyohashi University of Technology
     company_url: 'https://www.kde.cs.tut.ac.jp/en/'
-    company_logo: tut
+  # company_logo: org-x
     location: Toyohashi, Japan
     date_start: '2017-10-01'
     date_end: '2019-09-30'
