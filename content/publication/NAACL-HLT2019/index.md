@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, ACL, 2-5 June 2019, Minneapolis, Minnesota, USA.
+publication: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language
 publication_short: NAACL-HLT 2019
 
 # abstract: 
