@@ -45,7 +45,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Conduct Lab Class
         * Problem Sets Discussion
         * Assist Students
@@ -62,7 +61,7 @@ experience:
   - title: Graduate Research Student
     company: KDE Lab, Toyohashi University of Technology
     company_url: 'https://www.kde.cs.tut.ac.jp/en/'
-  #  company_logo: org-x
+    company_logo: tut
     location: Toyohashi, Japan
     date_start: '2017-10-01'
     date_end: '2019-09-30'
