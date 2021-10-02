@@ -25,7 +25,7 @@ experience:
   - title: Instructor in Computer Science
     company: Asian University for Women
     company_url: 'https://asian-university.org/'
-    company_logo: auw-x
+    company_logo: auw-y
     location: Chittagong, Bangladesh
     date_start: '2020-01-12'
     date_end: ''
