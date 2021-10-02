@@ -6,8 +6,8 @@ title: "Combining a Rule-based Classifier with Ensemble of Feature Sets and Mach
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Umme Aymun Siddiqua
+- Tanveer Ahsan
 - Abu Nowshed Chy
-- Masaki Aono
 
 # Author notes (optional)
 # author_notes:
