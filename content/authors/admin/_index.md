@@ -71,4 +71,4 @@ highlight_name: true
 
 <p align="justify"> I am an Instructor of Computer Science at the Asian University for Women. My research interests lie in the areas of natural language processing and social computing. I am keen to analyze human behaviours from social media content using artificial intelligence algorithms to discover insight regarding various aspects such as stance, misinformation and abusive language. </p>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
